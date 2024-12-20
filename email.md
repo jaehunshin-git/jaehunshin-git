@@ -1,2 +1,2 @@
-# My Email:
-jhshin0422@gmail.com
+# 📩 My Email
+### jhshin0422@gmail.com
