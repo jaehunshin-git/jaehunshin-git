@@ -4,7 +4,7 @@
 <h5 align="center"> I'm kidding. 👋 Welcome to My GitHub Profile.</h5>
 
 ## 📝 About Me 
-<p>Hi, I'm Jaehun Shin. Sophomore in the Department of Computer Engineering.
+<p>Hi, I'm Jaehun Shin. Junior in the Department of Computer Engineering.
 
 ## 🔧 Skills
 <div align="center">
