@@ -24,9 +24,6 @@
   <a href="https://ubuntu.com/tutorials" target="_blank">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
   </a>
-</div>
-
-<div align="center">
   <a href="https://www.notion.so/" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   </a>
