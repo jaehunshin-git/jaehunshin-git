@@ -62,7 +62,7 @@
 <div align="center">
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehunshin-git&layout=compact&theme=github_dark)
-  <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaehunshin&theme=github_dark)](https://github.com/jaehunshin-git/github-readme-stats) -->
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaehunshin&theme=github_dark)](https://github.com/jaehunshin-git/github-readme-stats)
 
 </div>
 
